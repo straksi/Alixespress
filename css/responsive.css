@@ -1,0 +1,78 @@
+@media screen and (max-width:1024px) {
+    article{
+        width: 90%;
+    }
+
+    .icon1, .icon2{
+        display: none;
+    }
+
+    .icons_one{
+    float: none;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 50px;
+    }
+
+.cell{
+    display: block;
+    width: 70%;
+    margin: 0px auto 20px auto;
+    }
+
+}
+
+
+@media screen and (max-width:768px) {
+    .wheel{
+        width:300px;
+        margin-left: -150px;
+        margin-top: -150px;
+    }
+
+    .level{
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .main_block{
+        background-size: 150%;
+    }
+
+    .train_cell{
+        width: 100%;
+        margin: 0px auto;
+
+    }
+
+    .admin2{
+        background: none;
+    }
+
+    .admin2 p{
+        margin: 0px auto;
+        padding-left: 0px;
+        background: none;
+}
+    .verst{
+        width: 100%;
+        margin: 0px auto;
+
+    }
+
+    .explain{
+        width: 100%;
+        margin: 0px auto;
+
+    }
+.foot{
+    display: block;
+    margin: 0px auto;
+}
+
+.foot li{
+    width: 100%;
+    padding: 10px 0;
+
+
+}
